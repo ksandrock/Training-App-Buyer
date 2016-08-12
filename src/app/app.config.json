@@ -1,0 +1,14 @@
+{
+  "appname": "Training App Buyer",
+  "scope": "FullAccess",
+  "clientid": "3773F4AB-7DBD-475D-BE9A-635AC483E1AF",
+  "buyerid": null,
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
